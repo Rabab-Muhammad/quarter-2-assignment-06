@@ -22,9 +22,9 @@ const Testimonials = () => {
             <IoMdStar />
           </div>
           <p className="text-lg py-5">
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Suspendisse varius enim in eros elementum tristique. Duis cursus, mi
-            quis viverra ornare."
+            quis viverra ornare.&quot;
           </p>
           <div className="flex items-center gap-10">
             <Image
@@ -51,9 +51,9 @@ const Testimonials = () => {
             <IoMdStar />
           </div>
           <p className="text-lg py-5">
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Suspendisse varius enim in eros elementum tristique. Duis cursus, mi
-            quis viverra ornare."
+            quis viverra ornare.&quot;
           </p>
           <div className="flex items-center gap-10">
             <Image
@@ -80,9 +80,9 @@ const Testimonials = () => {
             <IoMdStar />
           </div>
           <p className="text-lg py-5">
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Suspendisse varius enim in eros elementum tristique. Duis cursus, mi
-            quis viverra ornare."
+            quis viverra ornare.&quot;
           </p>
           <div className="flex items-center gap-10">
             <Image
