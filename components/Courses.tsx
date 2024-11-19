@@ -4,7 +4,7 @@ import { CiStar } from "react-icons/ci";
 
 const Courses = () => {
   return (
-    <div className="py-[112px] px-[64px] text-center">
+    <div id="Courses" className="py-[112px] px-[64px] text-center">
       <h1 className="font-bold text-[56px]">Courses</h1>
       <p className="text-lg py-5">Your Ultimate Guide to Learning</p>
       <div className="space-x-7">

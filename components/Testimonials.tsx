@@ -6,7 +6,7 @@ import Image from "next/image";
 
 const Testimonials = () => {
   return (
-    <div className="bg-[#F7F7F7] pt-10 px-[64px] ">
+    <div id="Testimonial" className="bg-[#F7F7F7] pt-10 px-[64px] ">
       <h1 className="font-bold text-5xl">Customer Testimonials</h1>
       <p className="text-lg pt-5 pb-10">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.

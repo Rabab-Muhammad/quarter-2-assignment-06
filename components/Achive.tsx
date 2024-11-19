@@ -2,7 +2,7 @@ import React from "react";
 
 const Achive = () => {
   return (
-    <div className=" text-center py-[112px] px-[64px]  ">
+    <div id="Achievement" className=" text-center py-[112px] px-[64px]  ">
       <h1 className="text-5xl font-bold ">Our Achivements</h1>
       <p className="text-lg py-5 ">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse

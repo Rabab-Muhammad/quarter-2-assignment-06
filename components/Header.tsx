@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Header = () => {
   return (
-    <div className="bg-[#F7F7F7] px-[64px] py-4 flex items-center justify-between w-[1280px] h-[72px] mt-3">
+    <div id="Home" className="bg-[#F7F7F7] px-[64px] py-4 flex items-center justify-between w-[1280px] h-[72px] mt-3">
       <div className="flex items-center space-x-4">
         <Image
           src={"/images/logo-icon.svg"}
@@ -14,12 +14,12 @@ const Header = () => {
         <span className="text-[25.07px] font-bold">Ddsgnr</span>
       </div>
       <nav className="  flex items-center px-2 space-x-8 bg-white h-[44px]">
-        <a href="# ">Home</a>
-        <a href="#">Courses</a>
-        <a href="#">Services</a>
-        <a href="#">Achievement</a>
-        <a href="#">About Us</a>
-        <a href="#">Testimonial</a>
+        <a href="#Home">Home</a>
+        <a href="#Courses">Courses</a>
+        <a href="#Services">Services</a>
+        <a href="#Achievement">Achievement</a>
+        <a href="#About Us">About Us</a>
+        <a href="#Testimonial">Testimonial</a>
       </nav>
 
       <div className="xs:flex space-x-4 ">

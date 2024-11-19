@@ -1,5 +1,4 @@
 import Achive from '@/components/Achive'
-import Achive2 from '@/components/Achive2'
 import Category from '@/components/Category'
 import Courses from '@/components/Courses'
 import Header from '@/components/Header'
@@ -20,7 +19,6 @@ export default function Home() {
       <TrustedCompan />
       <Category />
       <Achive />
-      <Achive2 />
       <Courses />
       <Team />
       <Testimonials />

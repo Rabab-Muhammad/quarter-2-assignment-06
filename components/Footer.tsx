@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const Footer = () => {
   return (
-    <div className="p-[80px] text-left  ">
+    <div  id="About Us" className="p-[80px] text-left  ">
       {/* Newsletter Section */}
       <div className="flex items-center justify-between ">
         <div>
