@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Category = () => {
   return (
-    <div id="Services" className="py-[112px] px-[64px] mt-[20px]  ">
+    <div id="Services" className="py-[112px] px-[64px] mt-[20px] text-center ">
       <h1 className="text-5xl font-bold  ">Explore Courses By Category</h1>
       <p className="text-lg pt-5  ">
         Discover a wide range of courses covering a variety of subjects, taught
