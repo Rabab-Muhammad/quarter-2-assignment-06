@@ -1,9 +1,10 @@
+
 import React from "react";
 import Image from "next/image";
 
 const Hero = () => {
   return (
-    <div className="h-auto justify-center items-start md:h-[579px] w-full flex flex-col md:flex-row ">
+    <div className="h-auto justify-center items-start md:h-[562px] w-full flex flex-col md:flex-row ">
       {/* Left Section */}
       <div className="w-full flex flex-col justify-center items-center m-4 md:m-24 pt-20 text-center md:text-left">
         <h1 className="text-4xl sm:text-center pr-10 md:text-[56px] font-bold md:w-[496px] leading-tight">
@@ -30,7 +31,7 @@ const Hero = () => {
           alt="hero-image"
           height={300}
           width={640}
-          className="object-cover w-full md:w-2/3 sm:h-4/5"
+          className="object-cover w-full md:w-2/3 sm:h-4/5" 
         />
       </div>
     </div>
